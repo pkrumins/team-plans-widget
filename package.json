@@ -1,7 +1,7 @@
 {
     "name" : "team-plans-widget",
     "version" : "0.0.1",
-    "description" : "manage browserling teams",
+    "description" : "manage teams widget",
     "main" : "index.js",
     "dependencies" : {
         "brfs" : "~0.0.2",
